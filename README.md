@@ -167,7 +167,7 @@ This project was developed to practice:
 
 ### Terminal execution
 
-![Terminal](assets/terminal.png)
+![Terminal](https://github.com/naelcyber9/CyberLog-Analyzer/blob/master/assets/terminal.png)
 
 ### Security Report
 
