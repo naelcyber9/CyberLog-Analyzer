@@ -165,4 +165,4 @@ This project was developed to practice:
 
 ## Screenshots
 
-<img src="assets/terminal.png" width="800">
+![Terminal](./assets/terminal.png)
