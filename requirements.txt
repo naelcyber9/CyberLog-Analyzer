@@ -1,0 +1,2 @@
+# No external dependencies required
+# CyberLog Analyzer uses only Python standard library

@@ -1,0 +1,15 @@
+Jul 30 10:10:15 kali sshd[1234]: Failed password for root from 192.168.1.15 port 52122 ssh2
+Jul 30 10:10:18 kali sshd[1234]: Failed password for root from 192.168.1.15 port 52125 ssh2
+Jul 30 10:10:22 kali sshd[1234]: Failed password for admin from 185.220.101.42 port 60001 ssh2
+Jul 30 10:10:30 kali sshd[1234]: Accepted password for nael from 192.168.1.20 port 62000 ssh2
+Jul 30 10:10:33 kali sshd[1234]: Failed password for root from 185.220.101.42 port 60015 ssh2
+Jul 30 10:10:35 kali sshd[1234]: Failed password for admin from 185.220.101.42 port 60020 ssh2
+Jul 30 10:10:15 kali sshd[1234]: Failed password for root from 192.168.1.50 port 52122 ssh2
+Jul 30 10:10:15 kali sshd[1234]: Failed password for root from 192.168.1.50 port 52122 ssh2
+Jul 30 10:10:15 kali sshd[1234]: Failed password for root from 192.168.1.50 port 52122 ssh2
+Jul 30 10:10:15 kali sshd[1234]: Failed password for root from 192.168.1.50 port 52122 ssh2
+Jul 30 10:10:15 kali sshd[1234]: Failed password for root from 192.168.1.50 port 52122 ssh2
+Jul 30 10:10:15 kali sshd[1234]: Failed password for root from 192.168.1.50 port 52122 ssh2
+Jul 30 10:10:15 kali sshd[1234]: Failed password for root from 192.168.1.50 port 52122 ssh2
+Jul 30 10:10:15 kali sshd[1234]: Failed password for root from 192.168.1.50 port 52122 ssh2
+Jul 30 10:10:15 kali sshd[1234]: Failed password for root from 192.168.1.50 port 52122 ssh2

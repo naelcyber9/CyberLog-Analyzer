@@ -1,0 +1,5 @@
+Jul 30 11:00:01 scanner from 192.168.1.80 port 22
+Jul 30 11:00:02 scanner from 192.168.1.80 port 80
+Jul 30 11:00:03 scanner from 192.168.1.80 port 443
+Jul 30 11:00:04 scanner from 192.168.1.80 port 3306
+Jul 30 11:00:05 scanner from 192.168.1.80 port 8080
