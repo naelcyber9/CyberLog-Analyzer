@@ -1,5 +1,4 @@
 # 🔐 CyberLog Analyzer
-![Terminal](assets/terminal.png)
 
 A Python-based security log analyzer capable of detecting suspicious activities such as SSH brute force attacks and port scanning attempts.
 
@@ -84,7 +83,7 @@ Example:
         }
     ]
 }
-
+```
 
 📂 Project Structure
 
@@ -97,7 +96,12 @@ CyberLog-Analyzer/
 ├── sample_logs/
 │   ├── auth.log
 │   └── port_scan.log
-│
+│ 
+├── assets/
+│   ├── terminal.png
+│   ├── report.png
+│   └── json.png
+│ 
 ├── reports/
 │
 └── src/
@@ -113,7 +117,7 @@ CyberLog-Analyzer/
 
 Clone the repository:
 
-git clone https://github.com/your_username/CyberLog-Analyzer.git
+git clone https://github.com/naelcyber9/CyberLog-Analyzer.git
 
 Install dependencies:
 
@@ -131,6 +135,25 @@ or:
 python3 main.py sample_logs/port_scan.log
 
 The analyzer will generate security reports automatically.
+
+
+## 🧪 Tests
+
+Unit tests were implemented using `pytest`.
+
+Tested components:
+
+- IP address extraction ✅
+- Timestamp extraction ✅
+- Port extraction ✅
+
+Run tests:
+
+```bash
+pytest
+```
+
+All tests passed successfully.
 
 
 🛠️ Technologies Used
@@ -166,4 +189,15 @@ This project was developed to practice:
 
 ## Screenshots
 
-![Terminal](./assets/terminal.png)
+### Terminal execution
+
+![Terminal](assets/terminal.png)
+
+### Security Report
+
+![Report](assets/report.png)
+
+### JSON Export
+
+![JSON](assets/json.png)
+
