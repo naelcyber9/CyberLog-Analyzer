@@ -1,4 +1,5 @@
 # 🔐 CyberLog Analyzer
+![Terminal](assets/terminal.png)
 
 A Python-based security log analyzer capable of detecting suspicious activities such as SSH brute force attacks and port scanning attempts.
 
