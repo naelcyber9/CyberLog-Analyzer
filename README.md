@@ -162,3 +162,19 @@ This project was developed to practice:
 - Add graphical dashboard
 
 ---
+
+## Screenshots
+
+### Terminal execution
+
+![Terminal](assets/terminal.png)
+
+### Security Report
+
+![Report](assets/report.png)
+
+### JSON Export
+
+![JSON](assets/json.png)
+
+---
