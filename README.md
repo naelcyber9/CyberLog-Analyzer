@@ -167,14 +167,12 @@ This project was developed to practice:
 
 ### Terminal execution
 
-![Terminal](https://github.com/naelcyber9/CyberLog-Analyzer/blob/master/assets/terminal.png)
+![Terminal](https://raw.githubusercontent.com/naelcyber9/CyberLog-Analyzer/master/assets/terminal.png)
 
 ### Security Report
 
-![Report](assets/report.png)
+![Report](https://raw.githubusercontent.com/naelcyber9/CyberLog-Analyzer/master/assets/report.png)
 
 ### JSON Export
 
-![JSON](assets/json.png)
-
----
+![JSON](https://raw.githubusercontent.com/naelcyber9/CyberLog-Analyzer/master/assets/json.png)
