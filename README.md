@@ -165,14 +165,4 @@ This project was developed to practice:
 
 ## Screenshots
 
-### Terminal execution
-
-![Terminal](https://raw.githubusercontent.com/naelcyber9/CyberLog-Analyzer/master/assets/terminal.png)
-
-### Security Report
-
-![Report](https://raw.githubusercontent.com/naelcyber9/CyberLog-Analyzer/master/assets/report.png)
-
-### JSON Export
-
-![JSON](https://raw.githubusercontent.com/naelcyber9/CyberLog-Analyzer/master/assets/json.png)
+<img src="assets/terminal.png" width="800">
